@@ -31,10 +31,14 @@ git commit -m "Commit message"
 Commit any files you've added with git add, and also commit any files you've changed since then:	
 git commit -a
 
-Push	Send changes to the master branch of your remote repository:	
+Push	
+Send changes to the master branch of your remote repository:	
 git push origin master
-Status	List the files you've changed and those you still need to add or commit:	
+
+Status	
+List the files you've changed and those you still need to add or commit:	
 git status
+
 Connect to a remote repository	If you haven't connected your local repository to a remote server, add the server to be able to push to it:	git remote add origin <server>
 List all currently configured remote repositories:	git remote -v
 Branches	Create a new branch and switch to it:	
