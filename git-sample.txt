@@ -8,7 +8,7 @@ git config --global user.email sam@example.com
 Create a new local repository	 	
 git init
 
-THERE --> Here
+THERE --> Here and there
 
 Check out a repository
 Create a working copy of a local repository:	
