@@ -17,5 +17,10 @@ git clone /path/to/repository
 For a remote server, use:	
 git clone username@host:/path/to/repository
 
+------------------------------------------------------------------------------------------
 
+<<<<<<< HEAD
 
+=======
+Suspendisse sollicitudin nunc enim, vitae ornare odio maximus eget. Quisque ornare, ex sed finibus porta, urna est laoreet purus, commodo scelerisque magna magna non augue. Maecenas pellentesque lectus non turpis vehicula, sit amet aliquam diam sagittis. Donec volutpat mattis metus nec fringilla. Quisque pretium, ante eu bibendum auctor, lorem orci fringilla eros, in auctor dolor tortor et leo. In eu elit at lacus tempus semper. In dui arcu, iaculis sed arcu ac, iaculis pellentesque urna. Cras cursus, odio quis pharetra hendrerit, erat sapien congue lorem, quis sodales lectus sapien sit amet nibh. Aliquam accumsan, libero sit amet vehicula dictum, felis tortor vestibulum arcu, sit amet auctor orci purus consectetur felis. Maecenas sit amet arcu non purus pellentesque placerat. Integer varius, neque sed fermentum sollicitudin, libero neque aliquam metus, sed elementum erat sem feugiat odio.
+>>>>>>> private2
